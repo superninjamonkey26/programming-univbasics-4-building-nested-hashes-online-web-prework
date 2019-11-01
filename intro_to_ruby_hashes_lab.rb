@@ -1,6 +1,6 @@
 def base_hash
   base_hash = {
-    :monopoly => {:railroads}
+    :monopoly => {:railroads "piece"}
   }
   base_hash
 end
