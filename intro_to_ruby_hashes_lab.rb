@@ -17,7 +17,7 @@ def monopoly_with_third_tier
    base_hash = {
     :railroads => {
       :pieces => 4,
-      :rent_in_dollars => {}
+      :rent_in_dollars => {:levels_of_ownership "4"}
     }
   }
 end
